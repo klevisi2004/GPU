@@ -1,4 +1,4 @@
-# mining GPU
+# mining GPU eth
 ##### ----------Name---------------price--------Hashrate
 ##### Nvidia GeForce RTX 3090----1755---------120 Mh/s
 ##### Nvidia GeForce RTX 3080----820----------102 Mh/s
